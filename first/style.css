@@ -1,0 +1,30 @@
+html, body {height: 95%;
+						width: 65% ;}
+
+.top {background: red;
+	  height: 40%;
+	  width: 100%;
+	   }
+
+.bottom {background: blue;
+		 height: 60%px;
+		 width: 100%px;
+		 
+		  }
+
+.middle {background: yellow;
+		 height:400px;
+		 width: 250px;
+		 margin: 0 auto;
+
+		  }
+
+
+		
+
+.lower {background:green;
+		height: 150px;
+		width: 250px;
+		
+		margin: 0 auto;}
+
